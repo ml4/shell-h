@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 #
 ## hc-versions-probe.sh
-## 2022-04-26 ml4
+## 2022-05-10 ml4
 ## Automate the outputting of useful information about HashiCorp products.
 ## NOTE: this software is provided AS-IS. No warrantee exists with this software.  Read and understand the code
 ## prior to running, and run in non-production prior to then running in production.
